@@ -1,0 +1,22 @@
+#pg_wrap {height:100%;}
+#searchform {width:304px;}/*form button needed more room to stay on same line*/
+#trackingform input#t {width:80px;}/*same reason as above*/
+.featured #portfolio-nav {padding-bottom:10px;}/*thumbnail li's did no retain their bottom-margin*/
+body.home #main_col .post {width: 100%;}/*clearing*/
+.gallery, .bookmarks_gallery {display:inline-block;}/*clearing*/
+#header h1 {background:url(images/logo_ie6.png) no-repeat top left;}
+/*cannot understand transparent border*/
+#main_navi ul li a, body.shop #main_navi ul li.current_page_parent a, body.gallery #main_navi ul li.current_page_parent a, 
+body.search_pg #main_navi ul li.current_page_parent a,body.blog_pg #main_navi ul li.current-cat-parent a, 
+body.archive #main_navi ul li.current-cat-parent a, body.archive #main_navi ul li.current_page_parent a {border-color:#362c23;}
+.widget ul li a, body.blog_pg .widget ul li.current-cat a, .widget ul li.current-cat ul.children li a {border-color:#362c23;}
+.gallery .gallery-item {width:24%;}/*to prevent a drop*/
+#floatswrap input.update {margin-left:635px;}
+.details dd {height:1%}
+#footer {margin-top:-260px;}
+#footer .container {height:258px;/*minus the footer's border*/}
+.hire_content_middle {margin:0;}
+#gb_form fieldset.what {float:left;}
+#gb_form textarea{width:490px;}
+.step1 h4, h4.step2, h4.step3 {background:#ddd;}
+.featured .featured_img {background:url(images/img_holder.png) no-repeat top left;}

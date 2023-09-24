@@ -1,0 +1,9 @@
+#searchform {width:304px;}/*form button needed more room to stay on same line*/
+#trackingform input#t {width:80px;}/*same reason as above*/
+.featured #portfolio-nav {padding-bottom:10px;}/*thumbnail li's did no retain their bottom-margin*/
+.gallery, .bookmarks_gallery {display:inline-block;}/*clearing*/
+.gallery .gallery-item {width:24%;}/*to prevent a drop*/
+#floatswrap input.update {margin-left:637px;}
+#footer {margin-top:-280px;}
+#footer .container {height:278px;/*minus the footer's border*/}
+.featured .featured_img {background:url(images/img_holder.png) no-repeat top left;}
